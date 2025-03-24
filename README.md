@@ -8,19 +8,28 @@ A cool loading view with Bezier and a smooth circular motion
 <div align="center">
 <h1><kbd>🧩 BezierLoading</kbd></h1>
 An extension for MIT App Inventor 2.<br>
-Developed by th using Fast. A cool loading view with Bezier and a smooth circular motion with Costomised Loadind shape.
+This component is developed by th using Fast.<br>The BezierLoading class provides a customizable loading animation component, offering a wide range of configuration options.<br><a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://techhamara.blogspot.com/' target='_blank'>Blogger</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
 </div>
 
 ## 📝 Specifications
 * **
 📦 **Package:** io.th.bezierloading.bezierloading<br>
-💾 **Size:** 22.17 KB<br>
+💾 **Size:** 19.93 KB<br>
 ⚙️ **Version:** 1.0<br>
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-03-18 timezone="Indian/Maldives"]<br>
-💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) `v2.6.0`
+💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) `v2.7.0`
+
+<br>
 
 <br><br>
+## Output
+
+![photo_2025-03-24_19-21-25](https://github.com/user-attachments/assets/0ff858b8-c0dd-4fe5-b453-30d89dda0e6a)
+<br>
+![photo_2025-03-24_19-21-44](https://github.com/user-attachments/assets/ec4119a2-e023-4413-afc8-365392262dc2)
+<br>
+![photo_2025-03-24_19-21-48](https://github.com/user-attachments/assets/fd45a108-0e8c-4f85-a401-781eee06883b)
 <br>
 
 ## <kbd>Events:</kbd>
