@@ -30,7 +30,9 @@ This component is developed by th using Fast.<br>The BezierLoading class provide
 ![photo_2025-03-24_19-21-44](https://github.com/user-attachments/assets/ec4119a2-e023-4413-afc8-365392262dc2)
 <br>
 ![photo_2025-03-24_19-21-48](https://github.com/user-attachments/assets/fd45a108-0e8c-4f85-a401-781eee06883b)
+
 <br>
+
 ![311baa23-4c5b-4f2d-a89b-942ed8f4a6e7.gif](https://github.com/user-attachments/assets/7c94c624-3ed4-4522-b5aa-72b4086d20a1)
 
 <br>
